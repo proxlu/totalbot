@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "ajax-client": "^1.5.7",
+    "ajax-request": "^1.0.0",
+    "axios": "^0.21.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "bet-soccer-odds": "^1.0.1",
+    "betsapi-node": "^1.0.1",
+    "data-dlg": "^0.4.1",
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1",
+    "jquery": "^3.6.0",
+    "messaging-api-telegram": "^1.0.4",
+    "node-telegram-bot-api": "^0.53.0",
+    "oddsportal": "^1.2.1",
+    "pulldata-bet-api": "^2.0.4",
+    "puppeteer": "^1.20.0",
+    "radar-sport-api": "^1.0.0",
+    "request": "^2.88.2",
+    "scorebing-api": "^1.0.0",
+    "send-telegram-msg": "^1.0.4",
+    "soccer-scrape": "^0.0.2",
+    "telegram-bot-api": "^2.0.1",
+    "telegram-send-message": "^0.0.4",
+    "underscore": "^1.13.1",
+    "unirest": "^0.6.0"
+  },
+  "name": "totalbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
